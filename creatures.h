@@ -1,3 +1,10 @@
+/*
+
+
+10/31/23: today I added the stat modifier functionality, these are the ones that are added to rolls
+
+*/
+
 #ifndef H_creatures
 #define H_creatures
    
